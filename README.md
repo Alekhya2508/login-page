@@ -9,10 +9,6 @@ This project demonstrates a modern login form with a gradient background and a c
 
 ![Login Page Screenshot](screenshot.png)
 
-*(You can add a screenshot of your login page here)*
-
----
-
 ## ✨ Features
 
 🌈 Beautiful gradient background
@@ -38,11 +34,9 @@ This project demonstrates a modern login form with a gradient background and a c
 ```
 login-page
 │
-├── login.html
+├── index.html
 └── README.md
 ```
-
----
 
 ## ▶️ How to Run the Project
 
@@ -50,7 +44,6 @@ login-page
 2️⃣ Open the project folder
 3️⃣ Run the **login.html** file in any browser 🌐
 
----
 
 ## 🚀 Future Improvements
 
@@ -59,11 +52,6 @@ login-page
 🔹 Connect login form to a **backend database**
 🔹 Improve **mobile responsiveness 📱**
 
----
-
 ## 👨‍💻 Author
-
 Created as a **beginner frontend project** using HTML and CSS.
-
-⭐ If you like this project, consider giving it a **star** on GitHub!
 
