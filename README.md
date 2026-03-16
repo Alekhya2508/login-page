@@ -25,9 +25,7 @@ This project demonstrates a modern login form with a gradient background and a c
 
 * 🧱 **HTML5** – Page structure
 * 🎨 **CSS3** – Styling and layout
-* 📦 **Flexbox** – Centering elements
 
----
 
 ## 📂 Project Structure
 
@@ -36,14 +34,6 @@ login-page
 │
 ├── index.html
 └── README.md
-```
-
-## ▶️ How to Run the Project
-
-1️⃣ Download or clone this repository
-2️⃣ Open the project folder
-3️⃣ Run the **login.html** file in any browser 🌐
-
 
 ## 🚀 Future Improvements
 
