@@ -43,7 +43,7 @@ login-page
 🔹 Improve **mobile responsiveness 📱**
 
 ## Live demo
-  https://alekhya2508.github.io/login-page/
+ 🔗 https://alekhya2508.github.io/login-page/
 
 ## 👨‍💻 Author
 Created as a **beginner frontend project** using HTML and CSS.
